@@ -1,31 +1,31 @@
 {
     "documentos": [
         {
-            "id": 1,
+            "id": "1",
             "descripcion": "informe de ventas",
             "fecha": "04/01/2022",
             "urlDocumento": "https://jpcmec.000webhostapp.com/pdf/informe_ventas.pdf"
         },
         {
-            "id": 2,
+            "id": "2",
             "descripcion": "informe de compras",
             "fecha": "05/01/2022",
             "urlDocumento": "https://jpcmec.000webhostapp.com/pdf/informe_compras.pdf"
         },
         {
-            "id": 3,
+            "id": "3",
             "descripcion": "informe de impuestos",
             "fecha": "03/01/2022",
             "urlDocumento": "https://jpcmec.000webhostapp.com/pdf/informe_impuestos.pdf"
         },
         {
-            "id": 4,
+            "id": "4",
             "descripcion": "Informe de Ingresos",
             "fecha": "12/01/2022",
             "urlDocumento": "https://jpcmec.000webhostapp.com/pdf/informe_ingresos.pdf"
         },
         {
-            "id": 5,
+            "id": "5",
             "descripcion": "Informe de Egresos",
             "fecha": "17/01/2022",
             "urlDocumento": "https://jpcmec.000webhostapp.com/pdf/informe_egresos.pdf"
