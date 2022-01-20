@@ -1,5 +1,4 @@
-{
-    "documentos": [
+[
         {
             "id": "1",
             "descripcion": "informe de ventas",
@@ -31,4 +30,3 @@
             "urlDocumento": "https://drive.google.com/file/d/1-DsiSp7r3ZdBOk2rhbDV2xTny4Y_9ywe/view?usp=sharing"
         }
     ]
-}
